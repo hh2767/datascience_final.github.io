@@ -1,13 +1,32 @@
-name: "Yay internet!"
+name: "Analysis of plasticizer distribution and effects of plasticizer on obesity"
 output_dir: "."
 navbar:
   title: "Home"
   right:
     - text: "About"
       href: about.html
+    - text: "Dashboard"
+      href: dashboard_plasticizer.html
+    - text: Download
+      menu:
+        - text: Report
+          href: report.pdf
+        - text: Data
+          href: data.rar
     - icon: fa-envelope fa-lg
-      href: mailto:<you@youremail.com>
+      menu:
+        - text: email Yun
+          href: mailto:yh3094@cumc.columbia.edu
+        - text: email Jun
+          href: mailto:jl5297@cumc.columbia.edu
+        - text: email Chu
+          href: mailto:cy2522@cumc.columbia.edu
+        - text: email Chunxiao
+          href: mailto:cz2544@cumc.columbia.edu
+        - text: email Haoran
+          href: mailto:hh2767@cumc.columbia.edu
     - icon: fa-github fa-lg
-      href: http://github.com/<YOUR_GH_NAME>/
+      href: https://github.com/hh2767/datascience_final_project
 output:
-  html_document
+  html_document:
+    theme: flatly
