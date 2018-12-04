@@ -5,8 +5,6 @@ navbar:
   left:
     - text: Dashboard
       href: dashboard_plasticizer.html
-    - icon: fa-video fa-lg
-      href: about.html
   right:
     - text: Download
       menu:
@@ -14,6 +12,8 @@ navbar:
           href: report.pdf
         - text: Data
           href: data.rar
+    - icon: fa-video fa-lg
+      href: about.html
     - icon: fa-envelope fa-lg
       menu:
         - text: email Yun
