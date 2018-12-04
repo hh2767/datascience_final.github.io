@@ -2,9 +2,12 @@ name: "Analysis of plasticizer distribution and effects of plasticizer on obesit
 output_dir: "."
 navbar:
   title: "Home"
-  right:
+  left:
     - text: "Dashboard"
       href: dashboard_plasticizer.html
+    - icon: fa-video fa-lg
+      href: about.html
+  right:
     - text: Download
       menu:
         - text: Report
