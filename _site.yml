@@ -3,7 +3,7 @@ output_dir: "."
 navbar:
   title: "Home"
   left:
-    - text: "Dashboard"
+    - text: Dashboard
       href: dashboard_plasticizer.html
     - icon: fa-video fa-lg
       href: about.html
@@ -14,8 +14,6 @@ navbar:
           href: report.pdf
         - text: Data
           href: data.rar
-    - icon: fa-video fa-lg
-      href: about.html
     - icon: fa-envelope fa-lg
       menu:
         - text: email Yun
