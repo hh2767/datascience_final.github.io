@@ -1,7 +1,14 @@
 ---
 title: "Analysis of plasticizer distribution and effects of plasticizer on obesity"
+output:
+  html_document: 
+    toc: true
+    toc_float: true
 ---
 
 
 <br><img src=".\\pictures\\225148861.jpg" style="width:90%; border:10px solid"><br>
 
+#Background
+
+[Obesity is a major public health problem](https://www.who.int/gho/ncd/risk_factors/overweight/en/) across the world. First fat and now sugar have been blamed for causing obesity but increasing evidence have been found that [pollution is playing an important role](http://ec.europa.eu/environment/aarhus/pdf/35/Annex_11_report_from_Lowell_Center.pdf). [Plasticizers](https://www.plasticisers.org/) or mainly phthalates have been found to interrupt endocrine system at very low level of exposure, concerns have been rising in pediatricians and scientists. However, suspected act like estrogen agonist in human body, conclusions of how plasticizers affect bodyweight in populations of different age and genders do not always agree. With latest evidence of plasticizers depositing in human brain and more detailed exposure monitoring data of plasticizer exposure, we want to explore the relationship between body weight and plasticizer exposure in the latest NHANES datasets.
