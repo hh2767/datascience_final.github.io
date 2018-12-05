@@ -6,7 +6,8 @@ output:
 ---
 
 
-<br><img src=".\\pictures\\2.jpg" style="width:100%; border:10px solid"><br>
+<img src=".\\pictures\\4.jpg" style="width:100%">
+
 
 
 | [Introduction Video](about.html)  | [Visualizations  of findings](visualization.html) | [Study overview](overvies.html)
