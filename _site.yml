@@ -3,8 +3,16 @@ output_dir: "."
 navbar:
   title: "Home"
   left:
-    - text: Dashboard
-      href: dashboard_plasticizer.html
+    - text: Study overview
+      href: overview.html
+    - text: Visualization
+      menu:
+        - text: Phthalate percentage
+          href: percentage.html
+        - text: Phthalate distribution
+          href: distribution.html
+        - text: Phthalate-obesity
+          href: relationship.html
   right:
     - text: Download
       menu:
