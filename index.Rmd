@@ -6,5 +6,5 @@ output:
 ---
 
 
-<br><img src=".\\pictures\\225148861.jpg" style="width:90%; border:10px solid"><br>
+<br><img src=".\\pictures\\2.jpg" style="width:100%; border:10px solid"><br>
 
