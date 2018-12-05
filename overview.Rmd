@@ -10,7 +10,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-<br><img src=".\\pictures\\phthalates_1.jpg" style="width:90%; border:10px solid"><br>
+<br><img src=".\\pictures\\5.jpg" style="width:90%; border:10px solid"><br>
 
 #Background
 
