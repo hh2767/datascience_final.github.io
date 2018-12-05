@@ -7,5 +7,5 @@ output:
 
 
 <img src=".\\pictures\\4.jpg" style="width:100%">
-#<br><img src=".\\pictures\\2.jpg" style="width:100%; border:10px solid"><br>
+
 
