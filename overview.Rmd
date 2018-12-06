@@ -34,6 +34,12 @@ In the study, we uesd demographics data ([DEMO2011-2012][1], [DEMO2013-2014][2] 
 
 #Analysis and results
 
+Our study has two main goals:
+
+* Comparing phthalate exposure between different groups of people
+
+* Assessing relationship between phthalate exposure and obesity, adjusting for race and stratifying for gender and age. 
+
 ###Phthalate exposure comparison
 Phthalate exists in human body in different types. In the original dataset, eight types of phthalates in participants' urine were recorded. Therefore, we analyzed percent contribution of each type of phthalate to the sum-total phthalate and [visualized it](percentage.html). Then, we made some [plots](distribution.html) to compare phthalate exposure in different subgroups of people.
 
@@ -53,4 +59,22 @@ Among adults, for a one-unit increase in the sum-total phthalate exposure, we ex
 Among children, there is no association between phthalate and obesity in females statistically. While in males, for a one-unit increase in the sum-total phthalate exposure, we expect to see about 15% increase in the odds of being overweight/obese, adjusting for age, race and poverty status. 
 
 #Conclusions and discussions
+### Conclusion
+* Mono-ethyl phthalate (MEP) contributed most to the sum-total exposure among our study population.
+* Non hispanic blacks and people who are living in poverty are at higher exposure levels of phthalates metabolites, compared to other groups.
+* Phthalates and obesity are positively correlated among adults. And the association tends to be stronger in females than that in males. While among children, the positive correlation between phthalates and obesity is only observed among males, statistically. 
 
+###  Discussion
+We were expecting the plasticizers influence male population more for their lower baseline estrogen levels, but we found adult women are more influenced than men, and only male children are influenced.
+
+The difference in effects of plasticizers as obesogens are heterogeneous in the population, possibly by its multifaceted bioactivity as a selective estrogen receptor binder at different background level of estrogen or interaction with other hormonal axises.
+
+The obesogen effect on bodyweight in girls is not significant might be a result from confounding by the endocrine disrupting chemicals’ (EDCs) effect in precocious puberty.
+
+Laboratory studies find that early exposure to these pollutions can cause epigenetic modification and increase the risk of diseases for whole life. Our analysis did not include duration as an aspect of exposure due to limited data. Emerging researches about phthalates in nephrology and neurobiology have just started to illuminate more hazards we have never considered before.   
+
+The plastic products have brought huge convenience to modern life but the aftermath they bring along is more than ocean pollution and the damage they cause is not only to animals but also to ourselves. How to further regulate the application of such chemicals in industry and mitigate the harm in population who have been exposed should be studied more carefully.
+
+#Related research
+
+Impacts of phthalates on human health is a focused research area in recent years. [Here](related_work.html) are some research papers and websites related to our study. For more information on how phthalates affect human health, please refer to these resources.
