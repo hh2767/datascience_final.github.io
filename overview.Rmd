@@ -38,7 +38,7 @@ Our study has two main goals:
 
 * Comparing phthalate exposure between different groups of people
 
-* Assessing relationship between phthalate exposure and obesity, adjusting for race and stratifying for gender and age. 
+* Assessing relationship between phthalate exposure and obesity.
 
 ###Phthalate exposure comparison
 Phthalate exists in human body in different types. In the original dataset, eight types of phthalates in participants' urine were recorded. Therefore, we analyzed percent contribution of each type of phthalate to the sum-total phthalate and [visualized it](percentage.html). Then, we made some [plots](distribution.html) to compare phthalate exposure in different subgroups of people.
